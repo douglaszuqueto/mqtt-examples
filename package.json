@@ -1,0 +1,16 @@
+{
+  "name": "mqtt-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Salin Zuqueto",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.5.8",
+    "mosca": "^2.0.2",
+    "mqtt": "^1.13.0"
+  }
+}
